@@ -1,0 +1,4 @@
+com\learnwiremock\constants\MovieAppConstants.class
+com\learnwiremock\exception\MovieErrorResponse.class
+com\learnwiremock\dto\service\MoviesRestClient.class
+com\learnwiremock\dto\Movie.class
